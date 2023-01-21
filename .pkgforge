@@ -1,4 +1,4 @@
-name 'prospectus-script'
+name 'prospectus-static'
 org 'akerl'
 
 source(
